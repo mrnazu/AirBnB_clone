@@ -1,5 +1,7 @@
 # Welcome to the AirBnB clone project!
 
+![65f4a1dd9c51265f49d0](https://user-images.githubusercontent.com/108541991/237051537-e1b0df18-bb56-47c2-8b88-a3c57b3d8110.png)
+
 
 ## Project Description
 The AirBnB clone project where we will be focusing on building the backend of the application using Python and interfacing it with a console application using the `cmd` module. The goal of the project is to deploy on your server a simple copy of the AirBnB website.
@@ -71,4 +73,5 @@ EOF  help  quit
 $
 ```
 All tests should also pass in non-interactive mode: $ echo "python3 -m unittest discover tests" | bash
-2
+![815046647d23428a14ca2](https://user-images.githubusercontent.com/108541991/237051602-a16451e7-645d-4e1f-81ff-dad5f72ed955.png)
+
