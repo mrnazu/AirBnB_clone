@@ -77,3 +77,9 @@ All tests should also pass in non-interactive mode: $ echo "python3 -m unittest 
 
 
 ## Final product
+![fe2e3e7701dec72ce612472dab9bb55fe0e9f6d4](https://user-images.githubusercontent.com/108541991/237052655-41c225b9-27fc-40fc-a8d5-2dd4ef1aecef.png)
+![da2584da58f1d99a72f0a4d8d22c1e485468f941](https://user-images.githubusercontent.com/108541991/237052700-0ffba28d-591e-4f94-8078-ab56af4f4c95.png)
+
+## Author
+Samuel Amsalu
+
